@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloToastChallenge217118569</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="mynumber">0</string>
+</resources>
